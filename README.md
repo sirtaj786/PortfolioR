@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
+
 
 ## Built With
 
@@ -9,9 +9,8 @@
 - CSS
 - VS code
 
-## Live Demo
 
-- [Live Demo](https://chic-biscochitos-af5267.netlify.app/)
+
 
 
 # Getting Started
@@ -28,10 +27,9 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
-  ```
+ 
 
 - Navigate to `cd portfolio---react`  directory.
 
